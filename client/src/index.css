@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.logo {
+    width: 120px;
+    height: 40px;
+}
+
+.imageecont {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.imagee {
+    width: 200px;
+    height: 150px;
+}
